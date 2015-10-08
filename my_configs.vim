@@ -1,3 +1,3 @@
 set autochdir
-set clipboard=unnamed
+set clipboard=unnamedplus
 set nu
